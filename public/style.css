@@ -1,0 +1,22 @@
+* {
+  margin: 20px auto;
+  text-align: center;
+}
+h1 {
+  color: brown;
+}
+nav {
+  text-decoration: none;
+  background-color: bisque;
+  font-size: 20px;
+}
+body {
+  width: 80%;
+}
+p {
+  font-size: 18px;
+}
+
+span {
+  color: green;
+}
